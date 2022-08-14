@@ -1,0 +1,4 @@
+1 100.000000Khana_Set
+2 120.000000Chicken_Khana_Set
+3 40.000000Chowmin
+4 90.000000VEG_MO:MO

@@ -1,0 +1,4 @@
+1     Khana_Set   100.000000
+2     Chicken_Khana_Set   120.000000
+3     Chowmin   40.000000
+4     VEG_MO:MO   90.000000
